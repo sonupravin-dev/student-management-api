@@ -1,13 +1,19 @@
-# Student Management API
+# Django REST API – Student Management System
 
 ## Description
-A simple backend project to manage student data.
+Developed a RESTful API using Django concepts to manage student records.
 
 ## Features
-- Add student
-- View students
-- Update student
-- Delete student
+- CRUD Operations
+- Data handling
+- API routing
+
+## Project Structure
+- models.py
+- serializers.py
+- views.py
+- urls.py
 
 ## Tech Used
 - Python
+- Django (concept-based)
